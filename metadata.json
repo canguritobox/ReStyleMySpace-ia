@@ -1,0 +1,5 @@
+{
+  "name": "InteriorAI - Analista de Espacios",
+  "description": "Una aplicación inteligente que analiza fotos de interiores, identifica su estilo actual, ventajas y desventajas, y genera visualizaciones fotorrealistas de hasta 7 estilos de decoración diferentes manteniendo la estructura original.",
+  "requestFramePermissions": []
+}
